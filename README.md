@@ -68,7 +68,7 @@ AI Infrastructure · ML in Production · Backend Architecture · Systems Automat
 ### 🚀 Selected experiences
 
 #### 🎵 **AI Music Restoration Platform — “Code of Victory” Hackathon (2025)**
-A microservice-based analog of Spotify with AI-powered restoration of historical audio.
+A microservice-based analog of Spotify with AI-powered restoration of historical audio.  
 [Go to](https://github.com/SKUFF-CULTURE/VOV_backend)
 
 
@@ -105,11 +105,7 @@ Added pagination and frontend improvements for internal cluster management.
 - 🎓 Finalist — NTO “Sensor Systems” and “Engineers of the Future”  
 - 🤝 Startup contributor — LLM Integration (vLLM + Qwen, Go Gin)
 
----
 
-### 🧠 Interests
-
-AI Infrastructure · ML in Production · Backend Architecture · Systems Automation · Network Reliability
 
 
 
