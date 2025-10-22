@@ -80,10 +80,14 @@ Distributed OCR service for manga translation based on PaddleOCR + Kafka + Docke
 Integrated **vLLM** with **Qwen** and developed a backend client in Go (Gin).  
 [Go to](https://github.com/About-to-break/vLLM)
 
-#### ⚙️ **Cassandra Reaper Fork**
+#### ⚙️ **Cassandra Reaper Fork**  
 Added pagination and frontend improvements for internal cluster management.  
-📈 Open-source contribution used in c production at CRPT (“Chestny ZNAK”).
+📈 Open-source contribution used in c production at CRPT (“Chestny ZNAK”).  
 [Go to (original repo) ](https://github.com/thelastpickle/cassandra-reaper)
+
+
+
+    
 ---
 
 ### 🧩 Jobs
