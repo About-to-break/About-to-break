@@ -74,16 +74,16 @@ A microservice-based analog of Spotify with AI-powered restoration of historical
 
 #### 📰 **OCR Microservices Pipeline**
 Distributed OCR service for manga translation based on PaddleOCR + Kafka + Docker GPU.  
-[Go to](https://github.com/SKUFF-CULTURE/VOV_backend)
+[Go to](https://github.com/Smradniki/ManGo-processorsAll)
 
 #### 💬 **LLM Inference Backend**
 Integrated **vLLM** with **Qwen** and developed a backend client in Go (Gin).  
-[Go to](https://github.com/Smradniki/ManGo-processorsAll)
+[Go to](https://github.com/About-to-break/vLLM)
 
 #### ⚙️ **Cassandra Reaper Fork**
 Added pagination and frontend improvements for internal cluster management.  
 📈 Open-source contribution used in c production at CRPT (“Chestny ZNAK”).
-
+[Go to (original repo) ](https://github.com/thelastpickle/cassandra-reaper)
 ---
 
 ### 🧩 Jobs
