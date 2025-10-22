@@ -1,4 +1,4 @@
-# 👋 Ola, I'm Eugene
+# 🤘 Привет, I'm Eugene
 
 
 🎯 **Backend / Kinda DevOps or MlOPs/ AI Engineer**  
